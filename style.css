@@ -10,10 +10,11 @@ body {
 .container {
     background: hsl(0, 0%, 100%);
     max-width: 600px;
+    border: 1px solid hsl(0, 0%, 7%);;
     margin: 3.5rem auto;
     padding: 2rem;
     border-radius: 20px;
-    box-shadow: 20px 20px 0 rgba(0,0,0,0.9);
+    box-shadow: 15px 15px 0 rgba(0,0,0,0.9);
 }
 
 .image {
@@ -29,6 +30,12 @@ body {
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
     font-weight: 800;
+}
+
+.date{
+  font-size: 16px;
+  font-weight: 500;
+  color: hsl(0, 0%, 7%);
 }
 
 .heading{
