@@ -1,6 +1,6 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - Blog-Preview-Card-Main solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help me improve my coding skills by building realistic projects. 
+This is a solution to the [Blog-Preview-Card-Main challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help me improve my coding skills by building realistic projects. 
 
 ## Table of contents
 
