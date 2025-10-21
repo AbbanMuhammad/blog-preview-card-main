@@ -12,7 +12,8 @@ body {
     max-width: 600px;
     margin: 3.5rem auto;
     padding: 2rem;
-    border-radius: 15px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 0 rgba(0,0,0,0.9);
 }
 
 .image {
@@ -23,7 +24,33 @@ body {
 }
 
 .learning {
+  display: inline-block;
     background: hsl(47, 88%, 63%);
-    padding: 1rem 1rem;
-    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 800;
+}
+
+.heading{
+  color: hsl(0, 0%, 7%);
+  font-weight: 950;
+}
+.heading:hover{
+  color: hsl(47, 88%, 63%);
+}
+
+.light-text{
+  color: hsl(0, 0%, 42%);
+  font-weight: 500;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+.profile{
+  display: flex;
+}
+
+h4{
+  margin-left: 15px;
+  font-weight: 800;
 }
