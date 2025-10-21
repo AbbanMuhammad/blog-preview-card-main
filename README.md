@@ -22,7 +22,7 @@ This is a solution to the [Blog-Preview-Card-Main challenge on Frontend Mentor](
 
 ![Desktop Screenshot](./design/desktops.jpg)
 
-![Mobile Screenshot](. design/mobiles.jpg)
+![Mobile Screenshot](./design/mobiles.jpg)
 
 
 ### Links
