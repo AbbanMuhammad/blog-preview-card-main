@@ -33,10 +33,11 @@ main{
 
 .learning {
   display: inline-block;
-    background: hsl(47, 88%, 63%);
-    padding: 0.5rem 1rem;
-    border-radius: 0.5rem;
-    font-weight: 800;
+  background: hsl(47, 88%, 63%);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 800;
 }
 
 .date{
@@ -48,6 +49,7 @@ main{
 .heading{
   color: hsl(0, 0%, 7%);
   font-weight: 950;
+  font-size: 2rem;
 }
 .heading:hover{
   color: hsl(47, 88%, 63%);
@@ -68,3 +70,11 @@ h3{
   margin-left: 15px;
   font-weight: 800;
 }
+
+.attribution {
+              font-size: 11px;
+              text-align: center;
+            }
+            .attribution a {
+              color: hsl(228, 45%, 44%);
+            }
